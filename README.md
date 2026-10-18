@@ -1,6 +1,6 @@
 # Semana 10 — Herramientas Digitales
 
-**Estudiante:** Ricardo Ballera Mena Mendoza  
+**Estudiante:** Ricardo Angelo Mendez Mendoza  
 **Tema:** Efectos del tabaquismo en la salud humana
 
 ## Contenido
